@@ -64,3 +64,15 @@ footer {
 .destination:hover h2 {
 transform: rotate(0deg);
 }
+
+#spain{
+	background-color: #03a9f4;
+}
+
+#barcelona{
+	background-color: #d32f2f;
+}
+#scotland{
+	background-color: #388e3c;
+}
+
